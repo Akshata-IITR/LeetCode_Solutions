@@ -17,4 +17,12 @@
 | [1661-average-time-of-process-per-machine](https://github.com/Akshata-IITR/LeetCode_Solutions/tree/master/1661-average-time-of-process-per-machine) |
 | [1683-invalid-tweets](https://github.com/Akshata-IITR/LeetCode_Solutions/tree/master/1683-invalid-tweets) |
 | [1757-recyclable-and-low-fat-products](https://github.com/Akshata-IITR/LeetCode_Solutions/tree/master/1757-recyclable-and-low-fat-products) |
+## Array
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/Akshata-IITR/LeetCode_Solutions/tree/master/0001-two-sum) |
+## Hash Table
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/Akshata-IITR/LeetCode_Solutions/tree/master/0001-two-sum) |
 <!---LeetCode Topics End-->
